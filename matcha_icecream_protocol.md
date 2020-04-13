@@ -21,5 +21,6 @@
 *everything needs to be cold(around 0°C)*
 1. Put heavy cream and condense milk in the fridge to cool down overnight
 2. Take out heavy cream, and mix it for around half an hour until it became dense and foamy
+![mix heavy_cream till looks like this](heavy_cream.gif20200412_221038.gif)
 3. Add condense milk and matcha powder, and mix again
 4. Freeze in container for 4-5 hours before use.
