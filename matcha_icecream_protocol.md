@@ -36,4 +36,4 @@ Generate ice cream receipt helping people work from home
 
 
 ## Conclusion:
-This sweet ice cream makes me focused and happy at home and 
+This sweet ice cream makes me focused and happy at home.
