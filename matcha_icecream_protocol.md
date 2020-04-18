@@ -1,3 +1,6 @@
+## Aim:
+Generate ice cream receipt helping people work from home
+
 ## Ingredients:
  - 1/2 cups heavy cream (coconut milk) 
  - 2/3 cups condensed milk
@@ -27,6 +30,10 @@
 
 ## Results:
 1. Texture: there is phase separation in the ice cream, maybe the second mix is not enough
-![ice_cream product](ice cream.jpg)
+![ice_cream product](https://github.com/shuqin19/ice-cream/blob/master/ice%20cream.jpg)
 2. Taste: good, could be better with less condense milk
 3. Function: help refocus on coding
+
+
+## Conclusion:
+This sweet ice cream makes me focused and happy at home and 
