@@ -24,13 +24,14 @@ Generate ice cream receipt helping people work from home
 *everything needs to be cold(around 0°C)*
 1. Put heavy cream and condense milk in the fridge to cool down overnight
 2. Take out heavy cream, and mix it for around half an hour until it became dense and foamy
-![mix heavy_cream till looks like this](heavy_cream.gif20200412_221038.gif = 54x90 )
+<img src="heavy_cream.gif20200412_221038.gif" width="100">
 3. Add condense milk and matcha powder, and mix again for 5min
 4. Freeze in container for 4-5 hours before use.
 
 ## Results:
 1. Texture: there is phase separation in the ice cream, maybe the second mix is not enough
-![ice_cream product](https://github.com/shuqin19/ice-cream/blob/master/ice%20cream.jpg)
+<img src="https://github.com/shuqin19/ice-cream/blob/master/ice%20cream.jpg" width="150">
+
 2. Taste: good, could be better with less condense milk
 3. Function: help refocus on coding
 
