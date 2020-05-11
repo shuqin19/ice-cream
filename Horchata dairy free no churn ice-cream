@@ -3,7 +3,7 @@
 ## Horchata
 
 Horchata de arroz, a rice milk drink most common in Mexico, is flavoured with cinnamon and sugar and drunk cold. To make:
-![Image of Horchata] (https://image.shutterstock.com/image-photo/horchata-cinnamon-ice-glass-over-600w-328934612.jpg)
+![Image of Horchata](https://image.shutterstock.com/image-photo/horchata-cinnamon-ice-glass-over-600w-328934612.jpg)
 90 g of long grain rice
 250 ml of coconut milk (liquid at bottom of can of coconut milk).
 100 ml of oat milk
